@@ -28,6 +28,7 @@ I am proud to have earned the following badges during my participation in GirlSc
   - Languages: Python, JavaScript, SQL
   - Frameworks: Flask, Node.js, Express.js
   - Tools: Git,Postman
+  - 
 
 ## Contributions
 
@@ -36,5 +37,6 @@ I am actively contributing to various open-source projects and participating in 
 ## Connect with Me
 
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/ritik-tiwari-1a5399250/)
+- **twitter** (https://x.com/RitikTi15626579)
   
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me if you would like to collaborate on a project.
