@@ -28,7 +28,6 @@ I am proud to have earned the following badges during my participation in GirlSc
   - Languages: Python, JavaScript, SQL
   - Frameworks: Flask, Node.js, Express.js
   - Tools: Git,Postman
-  - 
 
 ## Contributions
 
