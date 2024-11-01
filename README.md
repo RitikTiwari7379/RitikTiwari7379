@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a passionate developer with a strong interest
 
 I am proud to have earned the following badges during my participation in GirlScript Summer of Code 2024 (GSSOC). Each badge represents a milestone achieved through hard work, collaboration, and dedication to open-source contributions.
 
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<div style='display:flex; align-items:center; gap: 10;' align='center'>
   <img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
